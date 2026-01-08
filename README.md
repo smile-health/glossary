@@ -19,7 +19,7 @@ By standardising terminology, this glossary helps users navigate the system more
 
 ## Glossary
 
-### A {#a}
+### A 
 
 | Term | Description |
 |------|-------------|
