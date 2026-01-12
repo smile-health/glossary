@@ -26,7 +26,6 @@ By standardising terminology, this glossary helps users navigate the system more
 | Activity | A specific task or operation carried out on the Program based on a real-life activity. |
 | Activity process, bottom up | A workflow approach where decisions and material process flow from lower levels (e.g., Public Health Centre) to higher levels (e.g., Ministry of Health or Material Manufacturer). For detailed information on the hierarchical Health Care Entity level, please visit the Ministry of Health Healthcare System Overview page. |
 | Activity process, top down | A workflow approach where decisions and directives originate from higher levels and are implemented at lower levels |
-| Active Substance | The primary ingredient in a vaccine or medication responsible for its intended effect is classified as KFA 92. |
 | Allocated Stock | Stock that has been reserved or allocated for specific orders or transactions and is no longer available for other orders or transactions. |
 | Available Stock | The total material that is still available and has not been ordered or transacted by any entity. |
 
@@ -45,7 +44,6 @@ By standardising terminology, this glossary helps users navigate the system more
 
 | Term | Description |
 |------|-------------|
-| Customer | An entity that receives materials or products from the order or transaction process within the system |
 | Consumption Customer | A child entity that directly uses or administers materials, such as a healthcare facility or clinic. This setting is used for the Transaction process. |
 | Central Buffer | A stock reserve is maintained at the national or central level to support provincial and regional distribution, ensuring availability and preventing shortages across multiple locations. This buffer is designed to avoid supply disruptions by maintaining an adequate reserve based on projected needs and historical consumption patterns. |
 | Companion Material | A supportive material that is used alongside another material to enhance or facilitate its application. |
@@ -139,6 +137,8 @@ By standardising terminology, this glossary helps users navigate the system more
 
 | Term | Description |
 |------|-------------|
+| Product Template | The primary ingredient in a vaccine or medication responsible for its intended effect is classified as KFA 92. |
+| Product Variant | The registered brand name under which a material is sold, classified as KFA 93 |
 | Program | Structured health initiative designed to address specific diseases or health conditions by managing and distributing critical resources, such as vaccines, drugs, and medical supplies. |
 
 ---
@@ -147,37 +147,34 @@ By standardising terminology, this glossary helps users navigate the system more
 
 | Term | Description |
 |------|-------------|
+| Receiver | An entity that receives materials or products from the order or transaction process within the system |
 | Retailer Price | The price at which an entity purchases materials from a vendor or supplier. |
 | Return Order | An order is created to return unused or defective materials to the supplier or another entity. |
 | Request Order | An order initiated by an entity to request materials from a higher-level entity or supplier. |
 | Role | A designated responsibility and privilege assigned to a user within the system. |
+| Remaining Stock | The total quantity of material currently owned and physically available within an entity. |
+
 
 ---
 
-### S
+### s
 
 | Term | Description |
 |------|-------------|
-| Stock on Hand | The total quantity of material currently owned and physically available within an entity. |
+| Sender | An entity responsible for supplying materials or products within the ordering or transaction process. |
+
 
 ---
-
 ### T
 
 | Term | Description |
 |------|-------------|
 | Temperature Sensitive | A defined term, whether a material is sensitive to a specific temperature, where exposure beyond the recommended range may degrade its quality. |
-| Trademark | The registered brand name under which a material is sold, classified as KFA 93 |
+
 
 ---
 
-### V
 
-| Term | Description |
-|------|-------------|
-| Vendor | An entity responsible for supplying materials or products within the ordering or transaction process |
-
----
 
 ## Revision History
 
@@ -185,4 +182,5 @@ Internal Use Only. This content is not intended for publication in the live envi
 
 | Date | Change description | Author | Status |
 |------|-------------------|--------|--------|
+| 8 Jan 2025 | Update terms: Active Substance → Product Template, Stock in Hand → Remaining Stock, Trademark → Product Variant, Vendor → Sender, Customer → Receiver. | TW | Done |
 | 29 Apr 2025 | Update terms Entity and Healthcare Entity Level. | TW | Done |
