@@ -1,4 +1,5 @@
 # Glossary
+> ℹ️ Last updated : 12 Jan 2026  
 
 Jump to:  
 [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z)
@@ -175,12 +176,3 @@ By standardising terminology, this glossary helps users navigate the system more
 ---
 
 
-
-## Revision History
-
-Internal Use Only. This content is not intended for publication in the live environment.
-
-| Date | Change description | Author | Status |
-|------|-------------------|--------|--------|
-| 8 Jan 2025 | Update terms: Active Substance → Product Template, Stock in Hand → Remaining Stock, Trademark → Product Variant, Vendor → Sender, Customer → Receiver. | TW | Done |
-| 29 Apr 2025 | Update terms Entity and Healthcare Entity Level. | TW | Done |
