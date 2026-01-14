@@ -6,7 +6,6 @@ Jump to:
 
 - [About](#about)  
 - [Glossary](#glossary)  
-- [Revision History](#revision-history)  
 
 ---
 
